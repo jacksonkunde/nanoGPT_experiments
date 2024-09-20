@@ -1,2 +1,2 @@
-# nanoGPT_experiments
-Work in Progress :rocket
+# nanoGPT_experiments 🦉
+Progress 🦉 ◽◽◽◽
